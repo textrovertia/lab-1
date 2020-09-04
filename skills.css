@@ -47,11 +47,16 @@ nav ul li{
 a:hover{
     color:plum; 
 }
-.css, .js, .html{
+.css, .js, .html, .sql{
     width: 15em;
     height: 15em;
     text-align: center;
     margin: 40px;
+}
+
+
+.css, .sql{
+    float: right;
 }
 
 
