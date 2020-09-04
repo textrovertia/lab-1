@@ -61,9 +61,21 @@ nav ul li{
     bottom: 0px;
     text-align:center;
     background-color: rebeccapurple;;
-    width: 100%
-}
-.contact a img{
-    width:1.2em;
+    width: 100%; 
+    color:white
 }
 
+.cont{
+    color: white;
+}
+
+
+.mycourses{
+    margin: auto;
+    border: 3px groove rebeccapurple;
+    width: 70%;
+    color: white;
+    background-color: rgba(123, 16, 230, 0.3);
+    box-shadow: 10px 10px 5px 5px #888888;
+    text-align: center;
+}

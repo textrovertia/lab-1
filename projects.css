@@ -57,7 +57,7 @@ a:hover{
 .myprojects2{
     margin: auto;
     border: 3px groove rebeccapurple;
-    width: 90%;
+    width: 70%;
     color: white;
     background-color: rgba(123, 16, 230, 0.3);
     box-shadow: 10px 10px 5px 5px #888888;
@@ -71,11 +71,18 @@ a:hover{
     background-color: rebeccapurple;;
     width: 100%;
     margin-top: 30px;
+    color:white;
 }
-.contact a img{
-    width:1.2em;
+
+.cont{
+    color:white;
 }
 
 .restaurant{
     width: 80%;
+    height: 30em;
+}
+
+.edpresso{
+    width: 80%
 }

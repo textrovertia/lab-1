@@ -67,9 +67,10 @@ nav ul li{
     bottom: 0px;
     text-align:center;
     background-color: rebeccapurple;;
-    width: 100%
-}
-.contact a img{
-    width:1.2em;
+    width: 100%;
+    color:white;
 }
 
+.cont{
+    color: white;
+}
