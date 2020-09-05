@@ -47,7 +47,7 @@ nav ul li{
 a:hover{
     color:plum; 
 }
-.css, .js, .html, .sql{
+.css, .js, .html, .sql, .sheets, .python{
     width: 15em;
     height: 15em;
     text-align: center;
@@ -55,7 +55,7 @@ a:hover{
 }
 
 
-.css, .sql{
+.css, .sql, .python{
     float: right;
 }
 

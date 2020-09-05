@@ -44,6 +44,14 @@ a:hover{
     color: plum;
 }
 
+.extra{
+    margin: auto;
+    border: 3px groove rebeccapurple;
+    width: 70%;
+    color: white;
+    background-color: rgba(123, 16, 230, 0.3);
+    box-shadow: 10px 10px 5px 5px #888888;
+}
 
 .contact{
     position:fixed;
