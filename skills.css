@@ -55,10 +55,13 @@ a:hover{
 }
 
 
-.css, .sql, .python{
+.css, .sql {
     float: right;
 }
 
+.python{
+    position: right;
+}
 
 
 .images{

@@ -58,17 +58,19 @@ nav ul li{
     background-color: pink;
 }
 .contact{
-    position:absolute;
+    position:fixed;
     bottom: 0px;
     text-align:center;
     background-color: rebeccapurple;;
-    width: 100%; 
-    color:white
+    width: 100%;
+    margin-top: 30px;
+    color:white;
 }
 
 .cont{
-    color: white;
+    color:white;
 }
+
 
 
 .mycourses{
