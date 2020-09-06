@@ -21,6 +21,7 @@ h1{
     color: white;
     background-color: rgba(123, 16, 230, 0.3);
     box-shadow: 10px 10px 5px 5px #888888;
+    
 }
 
 a{
@@ -28,7 +29,7 @@ a{
 }
 
 a:hover{
-    color: plum;
+    color:plum;
     
 }
 
@@ -69,6 +70,7 @@ nav ul li{
     background-color: rebeccapurple;;
     width: 100%;
     color:white;
+    margin-top: 40px;
 }
 
 .cont{
