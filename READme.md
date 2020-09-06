@@ -7,4 +7,4 @@ This repository contains a single file, a script for gathering the basic configu
 
 ## Using the file
 
-I'm following the instruction
+My name is Princess Asante, a student of Ashesi Uniersity studing Management Information Systems!
