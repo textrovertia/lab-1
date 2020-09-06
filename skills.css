@@ -60,7 +60,7 @@ a:hover{
 }
 
 .css, .js, .html, .sql, .sheets, .python{
-    width: 15em;
+    width: 60%;
     height: 15em;
     display: block;
     margin-left: auto;
